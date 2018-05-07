@@ -1,0 +1,93 @@
+#test box mesh
+push
+move
+25 150 0
+rotate
+x 50
+rotate
+y 20
+torus
+0 0 0 5 25
+#rotate 90 degrees about y to check lines
+push
+move
+50 0 0
+rotate
+x 90
+torus
+0 0 0 10 40
+#rotate 90 degrees about y to check lines
+push
+move
+50 0 0
+rotate
+x 90
+torus
+0 0 0 5 25
+#rotate 90 degrees about y to check lines
+push
+move
+50 0 0
+rotate
+x 90
+torus
+0 0 0 10 40
+#rotate 90 degrees about y to check lines
+push
+move
+50 0 0
+rotate
+x 90
+torus
+0 0 0 5 25
+#rotate 90 degrees about y to check lines
+push
+move
+50 0 0
+rotate
+x 90
+torus
+0 0 0 10 40
+#rotate 90 degrees about y to check lines
+push
+move
+50 0 0
+rotate
+x 90
+torus
+0 0 0 5 25
+#rotate 90 degrees about y to check lines
+push
+move
+50 0 0
+rotate
+x 90
+torus
+0 0 0 10 40
+#rotate 90 degrees about y to check lines
+push
+move
+50 0 0
+rotate
+x 90
+torus
+0 0 0 5 25
+#rotate 90 degrees about y to check lines
+push
+move
+50 0 0
+rotate
+x 90
+torus
+0 0 0 10 40
+#rotate 90 degrees about y to check lines
+push
+move
+50 0 0
+rotate
+x 90
+torus
+0 0 0 5 25
+display
+save
+donutline.png
